@@ -1,1 +1,1 @@
-# JavaScript_Game
+# JavaScript Jumping Game
